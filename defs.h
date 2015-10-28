@@ -5,7 +5,7 @@
 
 // one less than the greatest port number shown here:
 // https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
-static const int PORT = 53639;
+static const int PORT = 49150;
 static const char SERVER_HELLO[] = "server-hello";
 static const size_t DATAGRAM_MAX_READ = 81;
 static const int MAX_ERRORS = 10;
